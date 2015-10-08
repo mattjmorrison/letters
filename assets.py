@@ -491,12 +491,20 @@ PHRASES = {
     'correct': [
         'That is right!',
         'Correct!',
-        'Good Job!'
+        'Good Job!',
+        'Whatever',
+        'It\'s not that impressive, you know?',
+        'There are doctors out there curing diseases. Look at you.'
     ],
     'wrong': [
         'That is not right.',
         'Try again.',
-        'Whoops!'
+        'Whoops!',
+        'Why don\'t you just give up!',
+        'You are literally the worst!',
+        'Are you kidding me? Are you seriously kidding me?',
+        'Wow, just wow!',
+        'How long are we going to be here? I\'ve got stuff to do, you know.',
     ],
     'letter': [
         'Can you find the {} {}?',
